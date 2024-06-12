@@ -630,6 +630,6 @@ Suggestions -> **Suggest App** -> ❌
 
 * Use a content blocking extension like [AdGuard](https://apps.apple.com/app/adguard-for-safari/id1440147259) if you use Safari.
 
-* Use a private, secure, & reputable DNS provider of your choice. I would recommend setting up your own [NextDNS](https://nextdns.io/) configuration if you are able to (See my recommendations for NextDNS [here](https://nextdns.io/)), otherwise I would recommend [Quad9](https://quad9.net/).
+* Use a private, secure, & reputable DNS provider of your choice. I would recommend setting up your own [NextDNS](https://nextdns.io/) configuration if you are able to (See my recommendations for NextDNS [here](https://codeberg.org/Magnesium1062/nextdns-settings)), otherwise I would recommend [Quad9](https://quad9.net/).
 
 * Use a (reputable) VPN. I would recommend either [Mullvad](https://mullvad.net/) or [ProtonVPN](https://protonvpn.com/).
