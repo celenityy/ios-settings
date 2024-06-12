@@ -626,7 +626,7 @@ Suggestions -> **Suggest App** -> ❌
 
 # Additional Recommendations:
 
-* I would recommend using [Brave](https://apps.apple.com/app/brave-private-web-browser-vpn/id1052879175) as your browser of choice.
+* I would recommend using [Brave](https://apps.apple.com/app/brave-private-web-browser-vpn/id1052879175) as your browser of choice. *See my recommended settings [here](https://codeberg.org/Magnesium1062/better-brave-ios)*.
 
 * Use a content blocking extension like [AdGuard](https://apps.apple.com/app/adguard-for-safari/id1440147259) if you use Safari.
 
