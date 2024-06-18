@@ -2,6 +2,8 @@
 
 My recommendations for the ultimate iOS Configuration :)
 
+**NOTE:** This project can be found on both [Codeberg](https://codeberg.org/Magnesium1062/ios-settings), which will act as the main & preferred way to contribute, and [GitHub](https://github.com/Retold3202/ios-settings).
+
 # Apple ID 
 
 Personal Information -> Communication Preferences -> **Announcements** -> ❌
@@ -626,9 +628,9 @@ Suggestions -> **Suggest App** -> ❌
 
 # Additional Recommendations:
 
-* I would recommend using [Brave](https://apps.apple.com/app/brave-private-web-browser-vpn/id1052879175) as your browser of choice. *See my recommended settings [here](https://codeberg.org/Magnesium1062/better-brave-ios)*.
+* I would recommend using [Brave](https://apps.apple.com/app/brave-private-web-browser-vpn/id1052879175) as your browser of choice. *(See recommended settings [here](https://codeberg.org/Magnesium1062/better-brave-ios))*.
 
-* Use a content blocking extension like [AdGuard](https://apps.apple.com/app/adguard-for-safari/id1440147259) if you use Safari.
+* Use a content blocking extension like [AdGuard](https://apps.apple.com/app/adguard-for-safari/id1440147259) if you use Safari. *(See recommended settings [here](https://codeberg.org/Magnesium1062/adguard-safari-settings-ios))*
 
 * Use a private, secure, & reputable DNS provider of your choice. I would recommend setting up your own [NextDNS](https://nextdns.io/) configuration if you are able to (See my recommendations for NextDNS [here](https://codeberg.org/Magnesium1062/nextdns-settings)), otherwise I would recommend [Quad9](https://quad9.net/).
 
