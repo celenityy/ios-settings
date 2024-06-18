@@ -20,38 +20,39 @@ iCloud:
 
 Apps using iCloud -> Show All:
 
-Photos -> **Sync this iPhone/iPad** -> ❌
+* Photos -> **Sync this iPhone/iPad** -> ❌
 
-Photos -> **Shared Albums** -> ❌
+* Photos -> **Shared Albums** -> ❌
 
-iCloud Drive -> **Sync this iPhone/iPad** -> ❌
+* iCloud Drive -> **Sync this iPhone/iPad** -> ❌
 
-Passwords and Keychain -> **Sync this iPhone/iPad** -> ❌
+* Passwords and Keychain -> **Sync this iPhone/iPad** -> ❌
 
-Messages in iCloud -> **Use on this iPhone/iPad** -> ❌
+* Messages in iCloud -> **Use on this iPhone/iPad** -> ❌
 
-Health -> **Sync this iPhone/iPad** -> ❌
+* Health -> **Sync this iPhone/iPad** -> ❌
 
-iCloud Calendar -> **Use on this iPhone/iPad** -> ❌
+* iCloud Calendar -> **Use on this iPhone/iPad** -> ❌
 
-**Contacts** -> ❌
+* **Contacts** -> ❌
 
-**Reminders** -> ❌
+* **Reminders** -> ❌
 
-**Safari** -> ❌
+* **Safari** -> ❌
 
-**Home** -> ❌
+* **Home** -> ❌
 
-**Wallet** -> ❌
+* **Wallet** -> ❌
 
-**Game Center** -> ❌
+* **Game Center** -> ❌
 
-**Siri** -> ❌
+* **Siri** -> ❌
 
-**Maps** -> ❌
+* **Maps** -> ❌
 
-**Shortcuts** -> ❌
+* **Shortcuts** -> ❌
 
+<br>
 
 Device Backups -> iCloud Backup -> **Back Up This iPhone/iPad** -> ❌
 
@@ -59,6 +60,7 @@ Device Backups -> iCloud Backup -> **Back Up This iPhone/iPad** -> ❌
 
 **Access iCloud Data on the Web** -> ❌
 
+<br>
 
 Media & Purchases -> Password Settings -> **When Purchasing** -> `Require After 15 Minutes`
 
@@ -104,57 +106,61 @@ Focus Status -> **Share Focus Status** -> ❌
 
 # Screen Time
 
-Content & Privacy Restrictions -> ✅
+**Content & Privacy Restrictions** -> ✅
 
 Allowed Apps:
 
-**Safari** -> ❌ *unless you use it*
+* **Safari** -> ❌ *unless you use it*
 
-**SharePlay** -> ❌
+* **SharePlay** -> ❌
 
-**Siri & Dictation** -> ❌
+* **Siri & Dictation** -> ❌
 
-**AirDrop** -> ❌
+* **AirDrop** -> ❌
 
-**CarPlay** -> ❌
+* **CarPlay** -> ❌
 
-**News** -> ❌
+* **News** -> ❌
 
-**Health** -> ❌
+* **Health** -> ❌
+
+<br>
 
 Content Restrictions:
 
-Siri -> **Web Search Content** -> `Don't Allow`
+* Siri -> **Web Search Content** -> `Don't Allow`
 
-Game Center:
+Content Restrictions -> Game Center:
 
-**Multiplayer Games** -> `Don't Allow` (if you don't play any games online through Game Center)
+* **Multiplayer Games** -> `Don't Allow` (if you don't play any games online through Game Center)
 
-**Adding Friends** -> `Don't Allow`
+* **Adding Friends** -> `Don't Allow`
 
-**Connect with Friends** -> `Don't Allow`
+* **Connect with Friends** -> `Don't Allow`
 
-**Private Messaging** -> `Don't Allow`
+* **Private Messaging** -> `Don't Allow`
 
+<br>
 
 Privacy:
 
-**Calendars** -> `Don't Allow` (if you don't need to give any apps Calendar permission)
+* **Calendars** -> `Don't Allow` (if you don't need to give any apps Calendar permission)
 
-**Reminders** -> `Don't Allow` (if you don't need to give any apps Reminders permission)
+* **Reminders** -> `Don't Allow` (if you don't need to give any apps Reminders permission)
 
-**Share My Location** -> `Don't Allow`
+* **Share My Location** -> `Don't Allow`
 
-**Bluetooth Sharing** -> `Don't Allow`
+* **Bluetooth Sharing** -> `Don't Allow`
 
-**Speech Recognition** -> `Don't Allow`
+* **Speech Recognition** -> `Don't Allow`
 
-**Apple Advertising** -> `Don't Allow`
+* **Apple Advertising** -> `Don't Allow`
 
-**Allow Apps to Request to Track** -> `Don't Allow`
+* **Allow Apps to Request to Track** -> `Don't Allow`
 
-*Disallow here anything else you don't need/use as well*
+*Disallow anything else here you don't need/use as well*
 
+<br>
 
 **Share Across Devices** -> ❌
 
@@ -164,11 +170,13 @@ About -> **Name** -> Keep this generic, I recommend setting it to `Device`
 
 Software Update -> Automatic Updates:
 
-Automatically install -> **iOS/iPadOS Updates** -> ✅
+* Automatically install -> **iOS/iPadOS Updates** -> ✅
 
-Automatically install -> **Security Responses & System Files** -> ✅
+* Automatically install -> **Security Responses & System Files** -> ✅
 
-Automatically download -> **iOS/iPadOS Updates** -> ✅
+* Automatically download -> **iOS/iPadOS Updates** -> ✅
+
+<br>
 
 **AirDrop** -> `Receiving Off` *(This won't appear if you disabled AirDrop in `Screen Time` above)*
 
@@ -176,13 +184,15 @@ AirDrop -> **Use Cellular Data** -> ❌ *(This won't appear if you disabled AirD
 
 AirPlay & Handoff:
 
-**Automatically AirPlay** -> `Never`
+* **Automatically AirPlay** -> `Never`
 
-**Handoff** -> ❌
+* **Handoff** -> ❌
 
-**Continuity Camera** -> ❌
+* **Continuity Camera** -> ❌
 
-**AirPlay Receiver** -> ❌
+* **AirPlay Receiver** -> ❌
+
+<br>
 
 Background App Refresh -> Go through and disable any apps here that don't actually need to run in the background
 
@@ -282,38 +292,39 @@ I would recomend setting a strong `passcode` here and avoiding using Touch ID, F
 
 Use Touch/Face ID For:
 
-*(Ignore these 4 settings if you wish to use Touch/Face ID)
+*(Ignore these 4 settings if you wish to use Touch/Face ID)*
 
-**iPhone/iPad Unlock** -> ❌
+* **iPhone/iPad Unlock** -> ❌
 
-**Wallet & Apple Pay** -> ❌
+* **Wallet & Apple Pay** -> ❌
 
-**iTunes & App Store** -> ❌
+* **iTunes & App Store** -> ❌
 
-**Password AutoFill** -> ❌
+* **Password AutoFill** -> ❌
 
+<br>
 
 **Require Passcode** -> Your choice, the lower the better, I usually set to `Immediately`
-
 
 Allow Access when locked:
 
 You should disable anything here you don't need/use
 
-**Today View and Search** -> ❌
+* **Today View and Search** -> ❌
 
-**Notification Center** -> ❌
+* **Notification Center** -> ❌
 
-**Control Center** -> ❌
+* **Control Center** -> ❌
 
-**Live Activities** -> ❌
+* **Live Activities** -> ❌
 
-**Home Control** -> ❌
+* **Home Control** -> ❌
 
-**Return Missed Calls** -> ❌
+* **Return Missed Calls** -> ❌
 
-**Accessories** -> ❌
+* **Accessories** -> ❌
 
+<br>
 
 **Erase Data** -> ✅
 
@@ -327,45 +338,47 @@ You should disable anything here you don't need/use
 
 **Location Services** -> ❌ *(if you don't use/need it)*
 
-Share My Location -> **Find My iPhone/iPad** -> ❌
+Location Services:
 
-**Share My Location** -> ❌
+* Share My Location -> **Find My iPhone/iPad** -> ❌
 
+* **Share My Location** -> ❌
 
-**Siri & Dictation** -> `Never`
+* **Siri & Dictation** -> `Never`
 
 Disable location access for any apps that don't need it here
 
 System Services:
 
-**Alerts & Shortcuts Automations** -> ❌
+* **Alerts & Shortcuts Automations** -> ❌
 
-**Apple Pay Merchant Identification** -> ❌ *(Unless you use Apple Pay)*
+* **Apple Pay Merchant Identification** -> ❌ *(Unless you use Apple Pay)*
 
-**Device Management** -> ❌
+* **Device Management** -> ❌
 
-**Find My iPhone/iPad** -> ❌
+* **Find My iPhone/iPad** -> ❌
 
-**HomeKit** -> ❌
+* **HomeKit** -> ❌
 
-**Share My Location** -> ❌
+* **Share My Location** -> ❌
 
-**Suggestions & Search** -> ❌
+* **Suggestions & Search** -> ❌
 
-**System Customization** -> ❌
+* **System Customization** -> ❌
 
-**Significant Locations** -> ❌
+* **Significant Locations** -> ❌
 
-**Significant Locations** -> `Clear History`
+* **Significant Locations** -> `Clear History`
 
-**iPhone/iPad Analytics** -> ❌
+* **iPhone/iPad Analytics** -> ❌
 
-**Routing & Traffic** -> ❌
+* **Routing & Traffic** -> ❌
 
-**Improve Maps** -> ❌
+* **Improve Maps** -> ❌
 
-**Status Bar Icon** -> ✅
+* **Status Bar Icon** -> ✅
 
+<br>
 
 Tracking -> **Allow Apps to Request to Track** -> ❌
 
@@ -391,12 +404,13 @@ Lockdown Mode -> **2G Cellular Connectivity** -> ❌
 
 Siri & Search:
 
-**Learn from this App** -> ❌
+* **Learn from this App** -> ❌
 
-Suggestions -> **Show on Home Screen** -> ❌
+* Suggestions -> **Show on Home Screen** -> ❌
 
-Suggestions -> **Suggest App** -> ❌
+* Suggestions -> **Suggest App** -> ❌
 
+<br>
 
 Automatic Downloads -> **App Downloads** -> ❌
 
@@ -446,14 +460,15 @@ Password Options -> **Delete After Use** -> ✅
 
 Siri & Search:
 
-**Learn from this App** -> ❌
+* **Learn from this App** -> ❌
 
-Suggestions -> **Show in App** -> ❌
+* Suggestions -> **Show in App** -> ❌
 
-Suggestions -> **Show on Home Screen** -> ❌
+* Suggestions -> **Show on Home Screen** -> ❌
 
-Suggestions -> **Suggest App** -> ❌
+* Suggestions -> **Suggest App** -> ❌
 
+<br>
 
 **Default Browser App** -> Set to you preferred browser of choice
 
@@ -471,10 +486,11 @@ General -> AutoFill:
 
 *You should not save info in your browser like this for security reasons, use a dedicated password manager like Bitwarden or Proton Pass instead*
 
-**Use Contact Info** -> ❌
+* **Use Contact Info** -> ❌
 
-**Credit Cards** -> ❌
+* **Credit Cards** -> ❌
 
+<br>
 
 General -> **Show Links on Hover** -> ❌
 
@@ -518,14 +534,15 @@ Advanced:
 
 Siri & Search:
 
-**Learn from this App** -> ❌
+* **Learn from this App** -> ❌
 
-Suggestions -> **Show in App** -> ❌
+* Suggestions -> **Show in App** -> ❌
 
-Suggestions -> **Show on Home Screen** -> ❌
+* Suggestions -> **Show on Home Screen** -> ❌
 
-Suggestions -> **Suggest App** -> ❌
+* Suggestions -> **Suggest App** -> ❌
 
+<br>
 
 Contribute to Maps -> **Ratings and Photos** -> ❌
 
@@ -547,11 +564,11 @@ Advanced -> **Allow Sharing Large Amounts of Data** -> ❌
 
 Siri & Search:
 
-**Learn from this App** -> ❌
+* **Learn from this App** -> ❌
 
-Suggestions -> **Show on Home Screen** -> ❌
+* Suggestions -> **Show on Home Screen** -> ❌
 
-Suggestions -> **Suggest App** -> ❌
+* Suggestions -> **Suggest App** -> ❌
 
 # TV
 
@@ -571,12 +588,13 @@ Purchases and Rentals -> **Video Definition** -> `High Definition`
 
 Siri & Search:
 
-**Learn from this App** -> ❌
+* **Learn from this App** -> ❌
 
-Suggestions -> **Show on Home Screen** -> ❌
+* Suggestions -> **Show on Home Screen** -> ❌
 
-Suggestions -> **Suggest App** -> ❌
+* Suggestions -> **Suggest App** -> ❌
 
+<br>
 
 **iCloud Photos** -> ❌
 
@@ -618,13 +636,13 @@ From here, I would recommend going through all of your apps and removing any unn
 
 Siri & Search:
 
-**Learn from this App** -> ❌
+* **Learn from this App** -> ❌
 
-Suggestions -> **Show in App** -> ❌ *(if it appears)*
+* Suggestions -> **Show in App** -> ❌ *(if it appears)*
 
-Suggestions -> **Show on Home Screen** -> ❌
+* Suggestions -> **Show on Home Screen** -> ❌
 
-Suggestions -> **Suggest App** -> ❌
+* Suggestions -> **Suggest App** -> ❌
 
 # Additional Recommendations:
 
