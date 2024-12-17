@@ -652,4 +652,4 @@ Siri & Search:
 
 * Use a private, secure, & reputable DNS provider of your choice. I would recommend setting up your own [NextDNS](https://nextdns.io/) configuration if you are able to (See my recommendations for NextDNS [here](https://codeberg.org/celenity/nextdns-settings)), otherwise I would recommend [Quad9](https://quad9.net/).
 
-* Use a (reputable) VPN. I would recommend either [Mullvad](https://mullvad.net/) or [ProtonVPN](https://protonvpn.com/).
+* Use a (reputable) VPN. I would generally recommend either [Mullvad](https://mullvad.net/), [IVPN](https://www.ivpn.net/), or [ProtonVPN](https://protonvpn.com/).
